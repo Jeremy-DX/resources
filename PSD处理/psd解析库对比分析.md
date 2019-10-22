@@ -6,6 +6,7 @@ psd.js在浏览器下性能一般：
 
 大文件（50mb）10s。
 
+例子：[基于psd.js的前端解析工具](https://imcuttle.github.io/measure/#/source)
 
 ### 服务端
 
